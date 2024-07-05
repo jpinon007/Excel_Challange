@@ -1,5 +1,6 @@
 # Excel_Challange
 Module 1 Homework Incomplete
-The data being oragnized is in regards to funding, goals, and results of campaigns. The following shows the what campaigns were successful, failures, cancelled, and still live. 
-The data was organized to show how much money a camapign made versus the amount it was funded. 
+#Background
+There have been multiple Crowdfunding platforms such as Kickstarter that have been used to launch products and events respective to each company's insentive and requisites. The idea is that each project must reach or surpass a starting goal. To aid their efforts, this assignment is designed to sort and analyze previous data by using charts, graphs, tables, and brief statistical summaries. 
+#Solution
 
